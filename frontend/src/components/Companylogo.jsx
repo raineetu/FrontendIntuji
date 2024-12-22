@@ -4,7 +4,7 @@ function Companylogo() {
         <div className="bg-gray-100 py-12">
           {/* Heading */}
           <p className="text-center text-xl">
-            Over 32K+ software businesses growing with AR Shakir.
+            Over 32K+ software businessessc growing with AR Shakir.
           </p>
   
           <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-7 gap-6 mx-6 pt-7">

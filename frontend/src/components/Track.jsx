@@ -84,7 +84,7 @@ function Track() {
         <div className="w-full md:w-1/2 px-4 mt-8 md:mt-0">
           <p className="text-blue-800 font-semibold">Why Choose Us?</p>
           <p className="text-2xl md:text-4xl font-bold mb-4">
-            Track your payments <br /> on the way with the <br />
+            Track your payments <br /> on the way with the dsf<br />
             best way possible
           </p>
           <p className="text-gray-600 mb-4">
